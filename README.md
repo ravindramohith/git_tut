@@ -6,6 +6,3 @@ this is feature 1
 - this is main's point 2
 - point 1 of feature 1
 - point 2 of feature 1
-- stash 0
-- stash 1
-- stash 2
