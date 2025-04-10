@@ -9,4 +9,4 @@ this is feature 1
 
 # Git Merging:
 - git merge <branch_name> - merges the specified branch into the current branch
-- git merge --abort
+- git merge --abort - aborts the merge process and returns to the state before the merge started
