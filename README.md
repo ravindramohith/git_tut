@@ -16,3 +16,4 @@ this is feature 1
 - git checkout HEAD <file> - discards changes in the working directory
 - git reset --hard HEAD - discards all changes in the working directory and staging area
 - git reset <hash> - moves the current branch to the specified commit 
+ 
